@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "9d39b937-cbc5-2cbf-3a73-9ef8074d2801",
+    "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per APR-DRG (All Patient Refined Diagnosis Related Groups) in Belgian muncipalities (2017) (Nederlandstalige versie)",
+    "description": "This data provides more information about the diseases for which patients are admitted to hospital. The patients are divided into 25 categories based on their main diagnosis. Each MDC corresponds to an organ system or etiology and is usually associated with a particular medical specialty. A further distinction is made in APR-DRG. APR-DRG are a further subdivision of the MDC. Based on similar demographic, diagnostic and therapeutic characteristics, patients with a similar clinical profile and a similar profile of care provision are classified in an APR-DRG. ",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_aprdrg/blob/main/fpshealth_mhd_aprdrg_2017_nl_Gemeenten.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_aprdrg/blob/main/fpshealth_mhd_aprdrg_2017_nl_Gemeenten.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 13714494,
+    "modificationDate": "2023-11-24 16:26:00",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "58e033f0-bc52-41b5-8996-167fa006ec65",
+        "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per APR-DRG (All Patient Refined Diagnosis Related Groups)",
+        "landingPage": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "adhoc_admDM@health.fgov.be"
+    }
+}
