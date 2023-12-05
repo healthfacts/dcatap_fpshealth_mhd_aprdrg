@@ -14,13 +14,13 @@
     "language": "nl",
     "availability": "stable",
     "license": "CC_BY_4_0",
-    "documentation": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+    "documentation": "https://www.health.belgium.be/en/node/36322",
     "keyword": [],
     "dataset": {
         "@type": "dataset",
         "identifier": "58e033f0-bc52-41b5-8996-167fa006ec65",
-        "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per APR-DRG (All Patient Refined Diagnosis Related Groups)",
-        "landingPage": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+        "title": "Prevalence of medical diagnoses in Belgian hospitals: the number of hospital stays per APR-DRG (All Patient Refined Diagnosis Related Groups)",
+        "landingPage": "https://www.health.belgium.be/en/node/36322",
         "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
         "contactPointEmail": "adhoc_admDM@health.fgov.be"
     }
